@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gig-nursing-platform/static/css/main.8cacde8f.css",
+    "main.js": "/gig-nursing-platform/static/js/main.78b3a3e6.js",
+    "index.html": "/gig-nursing-platform/index.html",
+    "main.8cacde8f.css.map": "/gig-nursing-platform/static/css/main.8cacde8f.css.map",
+    "main.78b3a3e6.js.map": "/gig-nursing-platform/static/js/main.78b3a3e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cacde8f.css",
+    "static/js/main.78b3a3e6.js"
+  ]
+}
